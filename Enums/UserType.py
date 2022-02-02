@@ -1,0 +1,3 @@
+
+ADMIN = "Administrator"
+userTypeList = ("Administrator")
